@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @BowlORamen, a weeb and music enthusiast.
 - 🌱 I’m currently trying to learn JAVA and Python
 - 📫 You can reach me at paul.nguyen1209@gmail.com
 
